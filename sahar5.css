@@ -64,7 +64,7 @@ background-image: linear-gradient( 90deg ,#d10549 0,#df5b8775 10%,#db074e 51%,#d
  }
 
 .bg {
-    background-color: #dc1356;
+    background-color: #dc1356!important;
 }
 
 #des3,#des4 {
